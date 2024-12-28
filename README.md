@@ -1,2 +1,3 @@
 # YogiBearGame
-documention can be found within the files, java is used [yogibear_doc](https://github.com/danaske//yogibear_doc.pdf)
+documention can be found here [yogibear_doc]([https://github.com/danaske//yogibear_doc.pdf](https://github.com/danaskr/YogiBearGame/blob/f1990727a7cf3dc787d8fe81bc2b4406dccb79c9/yogibear_doc.pdf)
+, java is used.
