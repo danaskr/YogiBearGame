@@ -1,7 +1,5 @@
 # YogiBear Game
 
-**Author:** Dana Saker  
-**Assignment:** Assignment 3 – Documentation
 
 ## Game Overview
 
