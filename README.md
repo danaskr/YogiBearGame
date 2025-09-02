@@ -85,7 +85,3 @@ The game flow follows this structure:
 - **Highscore Display:** Verify table shows top 10 scores with player names
 - **Score Accuracy:** Verify highscore table reflects accurate top 10 scores across multiple games
 - **Keyboard Controls:** Verify game is fully playable using only keyboard (accessibility)
-
-## Class Diagram
-
-*[Class diagram would be inserted here based on the original document]*
